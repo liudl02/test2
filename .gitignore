@@ -1,0 +1,7 @@
+#back
+*.bak
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+dist
+build
